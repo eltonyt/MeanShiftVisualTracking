@@ -1,8 +1,8 @@
 # MeanShift Visual Tracking from scratch
 
 ## How To Run:
-	hw2.py {Video Path/Image Sequence Directory Name}
-	i.e. hw2.py boy-walking.mp4
+	meanShiftTracking.py {Video Path/Image Sequence Directory Name}
+	i.e. meanShiftTracking.py boy-walking.mp4
 
 ## How To Track:
 - Press Button "T" to start Tracking.
